@@ -1,42 +1,53 @@
-# Privacy Policy — A-Z Password Manager
+# Privacy Policy — A-Z Password Manager 🔐
 
-**Effective date:** 2026-01-23  
-**Developer/Publisher:** Mr-A-D-Z (replace if needed)  
-**Support / Contact:** (add your support link or email)
+Last updated: 2026-01-23
 
-## What data we collect
-- **Account email** (for login and verification via Firebase Authentication).
-- **Encrypted vault data** (your saved entries are stored encrypted; we do not store your master password).
-- **Support requests** (if you contact support, we may receive the message you send and your reply email if you provide it).
+A-Z Password Manager (“we”, “app”) is a password manager. Your security matters.
 
-## What we do NOT collect
-- We do **not** collect your master password.
-- We do **not** sell personal data.
+## What data we process ✅
+### 1) Account data
+- Email address (for login and password reset)
 
-## How your vault is stored
-- Vault entries are stored **encrypted** in the database.
-- Your **master password is never stored**. It is used to derive an encryption key on your device.
+### 2) Vault data (your saved passwords)
+- The app encrypts your vault on your device before syncing.
+- We do **not** store your master password.
+- We cannot read your vault contents in plain text.
 
-## Third-party services
-We use:
-- **Firebase Authentication** (sign-in and email verification)
-- **Cloud Firestore** (sync encrypted vault data)
+### 3) Support messages (optional)
+If you send bug reports / suggestions / support requests:
+- Your message is submitted via **Tally** forms and delivered to us.
 
-## Data retention
-- Deleted items may remain in a Trash/Recycle Bin for up to **30 days** (if enabled in the app), then removed.
+## Where data is stored ☁️
+- Authentication: Firebase Authentication
+- Sync storage (encrypted vault blobs): Cloud Firestore
+- Support forms: Tally
 
-## Account deletion
-You can request account deletion here:
-- **Account deletion page:** /account-deletion/
+## Why we use this data 🎯
+- To let you sign in and use your account
+- To sync your encrypted vault across reinstalls/devices
+- To answer support requests
 
-## Security
-We use encryption and platform security features where available. No system is 100% secure, but we take reasonable steps to protect your data.
+## Security 🔒
+- Vault data is encrypted on-device.
+- Encryption keys are kept in memory and cleared on logout/lock.
+- Optional biometric lock can be enabled.
 
-## Children’s privacy
+## Data retention 🕒
+- Your account data stays until you delete your account.
+- Deleted items may be kept in Trash for up to **30 days** before permanent deletion (if Trash exists in the app).
+
+## Account deletion 🗑️
+You can request deletion from inside the app:
+- Settings → Support Request → write “Delete my account”.
+We will delete your Firebase account and associated Firestore data.
+
+## Children 👶
 This app is not intended for children under 13.
 
 ## Changes
-We may update this policy. Updates will be posted on this page.
+We may update this policy. The latest version will be published on this page.
 
-## Contact
-Add your support method here (recommended: your Tally support form link).
+## Contact 📩
+Support:
+- Bug/Suggestion: https://tally.so/r/Pdz665
+- Support Request: https://tally.so/r/LZPbzp
