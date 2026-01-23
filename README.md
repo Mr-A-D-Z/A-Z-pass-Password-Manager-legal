@@ -1,1 +1,1 @@
-# A-Z-pass-Password-Manager-legal
+# A-Z-Password-Manager-legal
