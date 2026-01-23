@@ -1,17 +1,14 @@
-# Account Deletion — A-Z Password Manager
+# Account Deletion — A-Z Password Manager 🗑️
 
-## How to request deletion
-You can request deletion from inside the app:
-1) Open **Settings**
-2) Tap **Support**
-3) Write: “Please delete my account” and include your account email.
+To request account deletion:
 
-Or use this request link:
-- (PASTE YOUR TALLY SUPPORT/DELETE REQUEST LINK HERE)
+1) Open the app
+2) Settings → Support Request
+3) Write: “Delete my account” and send the request
 
-## What will be deleted
-- Your account authentication record (when processed)
-- Your synced encrypted vault entries stored in the database
+What we delete:
+- Firebase Authentication user (your email login)
+- Firestore documents associated with your user ID (encrypted vault data)
 
-## Processing time
-We process deletion requests as soon as possible. If you do not receive a response, please check your spam folder or submit the request again.
+After deletion:
+- You will not be able to access your cloud-synced vault.
