@@ -6,9 +6,9 @@ This repository hosts the legal pages for **A-Z Password Manager** via GitHub Pa
 - Legal hub: https://mr-a-d-z.github.io/A-Z-pass-Password-Manager-legal/
 
 ## 📄 Documents
-- 🔐 Privacy Policy: /privacy-policy.md  
-- ✅ Terms of Use: /terms-of-use.md  
-- 🗑️ Account Deletion: /account-deletion.md  
+- 🔐 Privacy Policy: https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/privacy-policy.md 
+- ✅ Terms of Use: https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/terms-of-use.md 
+- 🗑️ Account Deletion: https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/account-deletion.md
 
 ## 🆘 Support forms
 - 🐞 Bug / Suggestion: https://tally.so/r/Pdz665  
