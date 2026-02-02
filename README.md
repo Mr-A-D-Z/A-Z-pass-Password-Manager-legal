@@ -2,9 +2,6 @@
 
 This repository hosts the legal pages for **A-Z Password Manager** via GitHub Pages.
 
-## 🌐 Live site
-- Legal hub: https://mr-a-d-z.github.io/A-Z-pass-Password-Manager-legal/
-
 ## 📄 Documents
 - 🔐 Privacy Policy: https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/privacy-policy.md 
 - ✅ Terms of Use: https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/terms-of-use.md 
