@@ -7,7 +7,7 @@ A-Z Password Manager supports **in-app account deletion**.
 1) Open the app  
 2) Go to: **Settings → ABOUT → Delete Account**  
 3) Enter your **Master Password**  
-4) Type **HESABI SİL** to confirm  
+4) Type **DELETE** to confirm  
 5) Confirm deletion
 
 ## What we delete
