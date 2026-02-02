@@ -3,9 +3,9 @@
 This repository hosts the legal documents for **A-Z Password Manager**.
 
 ## 📄 Documents
-- 🔐 **Privacy Policy:** ./docs/privacy-policy.md
-- ✅ **Terms of Use:** ./docs/terms-of-use.md
-- 🗑️ **Account Deletion:** ./docs/account-deletion.md
+- 🔐 **Privacy Policy:** https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/privacy-policy.md
+- ✅ **Terms of Use:** https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/terms-of-use.md
+- 🗑️ **Account Deletion:** https://github.com/Mr-A-D-Z/A-Z-pass-Password-Manager-legal/blob/main/docs/account-deletion.md
 
 ## 🆘 Support & feedback
 A-Z Password Manager includes in-app screens to submit:
