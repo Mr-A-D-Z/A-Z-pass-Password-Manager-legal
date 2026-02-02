@@ -1,22 +1,22 @@
 # Terms of Use — A-Z Password Manager ✅
-
-Last updated: 2026-01-23
+Last updated: 2026-02-03
 
 By using A-Z Password Manager, you agree to these terms.
 
 ## What the app does
-- Helps you generate and store passwords.
-- Syncs your vault (encrypted) if you enable cloud sync.
+- Helps you generate and store passwords
+- Can sync your vault as encrypted data (when cloud sync is enabled)
 
 ## Your responsibilities
-- Keep your master password safe. If you forget it, your encrypted vault may be unrecoverable.
-- Don’t use the app for illegal activities.
+- Keep your Master Password safe
+- If you forget your Master Password, your encrypted vault may be unrecoverable
+- Do not use the app for illegal activities
 
 ## No warranty
-The app is provided “as is”. We do our best, but we cannot guarantee zero bugs.
+The app is provided “as is”. We do our best, but we cannot guarantee zero bugs or uninterrupted service.
 
 ## Limitation of liability
-We are not liable for losses caused by misuse, lost devices, or weak passwords chosen by users.
+We are not liable for losses caused by misuse, lost devices, weak passwords chosen by users, or third-party service outages.
 
 ## Changes
 We may update these terms. Updates will be published on this page.
