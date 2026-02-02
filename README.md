@@ -21,7 +21,7 @@ Account deletion is available **inside the app**:
 
 Deletion requires:
 1) Entering your **Master Password**, and  
-2) Typing **HESABI SİL** to confirm.
+2) Typing **DELETE** to confirm.
 
 We delete:
 - The Firebase Authentication user (email login)
