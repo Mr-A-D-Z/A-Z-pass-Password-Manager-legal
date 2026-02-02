@@ -52,7 +52,7 @@ You can delete your account inside the app:
 
 Deletion requires:
 1) Entering your Master Password  
-2) Typing **HESABI SİL** to confirm
+2) Typing **DELETE** to confirm
 
 When your account is deleted, we delete:
 - Firebase Authentication user
